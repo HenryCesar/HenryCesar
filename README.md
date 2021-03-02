@@ -17,8 +17,7 @@ Currently studying some specific languages, such as:
 <a href="mailto:henrique_alm@hotmail.com?subject=Hello%20Henrique"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 
          
-In order with the college, me and my friends are trying to create some projects.
-Then I will try to make them public.
+In order with the college, me and my friends are trying to create some projects, to see it, go to my Organizations.
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCesar&theme=blue-green)
