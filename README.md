@@ -1,15 +1,23 @@
 # Welcome!
 
-### About me
-I am a new student, studying Computer Engineering in the 5th Semester / 3rd year.
+## About me
+I am a student and a software engineering intern.
+Studying Computer Engineering at FACENS and working at Grupo Splice.
 
-Currently studying some specific languages, such as:
+</br>
 
+___
+
+### What am I doing?
+Currently studying and working with some specific languages, such as:
+
+<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+</br>
+
+___
 
 ### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecpsalmeida/)](https://www.linkedin.com/in/henriquecpsalmeida/)
@@ -19,5 +27,8 @@ Currently studying some specific languages, such as:
          
 In order with the college, me and my friends are trying to create some projects, to see it, go to my Organizations.
 
+</br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCesar&theme=blue-green)
+___
+
+<a href="https://www.splice.com.br/"> <img alt="Grupo Splice" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png"/> </a>
