@@ -5,7 +5,7 @@
 
 ## About Henrique
 
-<a href="https://www.facens.com.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
+<a href="https://www.facens.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
 </br>
 - 💻 Studying Computer Engineering at Facens
 - 🖥️ Sofware Intern at Grupo Splice
@@ -66,7 +66,7 @@ ___
 
 ## Sobre Henrique
 
-<a href="https://www.facens.com.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
+<a href="https://www.facens.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
 </br>
 - 💻 Estudando Engenharia da Computação na FACENS
 - 🖥️ Estagiário de Sofwtare no Grupo Splice
