@@ -8,9 +8,9 @@
 <a href="https://www.facens.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
 </br>
 - 💻 Studying Computer Engineering at <a href="https://facens.br">Facens</a>
-- 🖥️ Sofware Intern at <a href="https://www.splice.com.br/"> Grupo Splice </a>
+- 🖥️ Trainee Development Analyst at <a href="https://www.splice.com.br/"> Grupo Splice </a>
 - ✞ Jesus Freak
-<a href="https://www.splice.com.br/"> <img align="right" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png" width="100" height= "50"/> </a>
+<a href="https://www.splice.com.br/"> <img align="right" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png" width="150" height= "50"/> </a>
 
 
 </br>
@@ -22,6 +22,7 @@ Studying specific languages:
 
 <img align="left" alt="Go" width="36px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"/>
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </br>
@@ -69,9 +70,9 @@ ___
 <a href="https://www.facens.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
 </br>
 - 💻 Estudando Engenharia da Computação na <a href="https://facens.br">Facens</a>
-- 🖥️ Estagiário de Sofwtare no <a href="https://www.splice.com.br/"> Grupo Splice </a>
+- 🖥️ Analista de Desenvolvimento Trainee no <a href="https://www.splice.com.br/"> Grupo Splice </a>
 - ✞ Louco por Jesus
-<a href="https://www.splice.com.br/"> <img align="right" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png" width="100" height= "50"/> </a>
+<a href="https://www.splice.com.br/"> <img align="right" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png" width="150" height= "50"/> </a>
 
 
 </br>
@@ -82,6 +83,7 @@ Estudo linguagens específicas:
 
 <img align="left" alt="Go" width="36px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"/>
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </br>
