@@ -8,7 +8,7 @@
 <a href="https://www.facens.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
 </br>
 - 💻 Studying Computer Engineering at <a href="https://facens.br">Facens</a>
-- 🖥️ Trainee Development Analyst at <a href="https://www.splice.com.br/"> Grupo Splice </a>
+- 🖥️ Junior Development Analyst at <a href="https://www.splice.com.br/"> Grupo Splice </a>
 - ✞ Jesus Freak
 <a href="https://www.splice.com.br/"> <img align="right" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png" width="150" height= "50"/> </a>
 
@@ -70,7 +70,7 @@ ___
 <a href="https://www.facens.br/"> <img align="right" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/facens.png" width="100" height="70"/> </a>
 </br>
 - 💻 Estudando Engenharia da Computação na <a href="https://facens.br">Facens</a>
-- 🖥️ Analista de Desenvolvimento Trainee no <a href="https://www.splice.com.br/"> Grupo Splice </a>
+- 🖥️ Analista de Desenvolvimento Junior no <a href="https://www.splice.com.br/"> Grupo Splice </a>
 - ✞ Louco por Jesus
 <a href="https://www.splice.com.br/"> <img align="right" src="https://spartan.com.br/wp-content/uploads/2017/09/splice-logo.png" width="150" height= "50"/> </a>
 
